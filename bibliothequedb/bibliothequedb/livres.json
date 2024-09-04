@@ -1,0 +1,717 @@
+[{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd4480e"
+  },
+  "isbn": "42368756",
+  "titre": "ReactJS",
+  "annedition": "2021",
+  "prix": "33",
+  "qtestock": "10",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704635546/images/reactweb_u5lkfr.jpg",
+  "specialite": {
+    "$oid": "663f8d3f3017d49f8bd44833"
+  },
+  "maised": {
+    "$oid": "663f8cff3017d49f8bd4482d"
+  },
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b80"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b81"
+    }
+  ],
+  "created_at": null,
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd4480f"
+  },
+  "isbn": "555698745",
+  "titre": "WordPress",
+  "annedition": "2022",
+  "prix": "55",
+  "qtestock": "4",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704635569/images/9782409031878_internet_w290_uqwq1m.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised": {
+    "$oid":  "663f8cff3017d49f8bd4482f"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-09-25 12:49:00",
+  "updated_at": "2023-09-25 12:50:00"
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44810"
+  },
+  "isbn": "54894",
+  "titre": "Techniques de Référencement Web",
+  "annedition": "2020",
+  "prix": "65",
+  "qtestock": "10",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704635586/images/9782212679861_internet_w290_wpmlmi.jpg",
+  "specialite": {
+    "$oid": "663f8d3f3017d49f8bd44833"
+  },
+  "maised": {
+    "$oid": "663f8cff3017d49f8bd4482d"
+  },
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b82"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b83"
+    }
+  ],
+  "created_at": null,
+  "updated_at": "2023-09-25 12:49:00"
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44811"
+  },
+  "isbn": "5464sf",
+  "titre": "VueJS",
+  "annedition": "2020",
+  "prix": "20",
+  "qtestock": "5",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704635600/images/9782409029424_internet_w290_wxfv8e.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482e"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 14:23:00",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44812"
+  },
+  "isbn": "65465445",
+  "titre": "JAVA Spring",
+  "annedition": "2020",
+  "prix": "50",
+  "qtestock": "15",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704635630/images/9782409028649_internet_w290_tih4n1.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482e"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 14:24:17",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44813"
+  },
+  "isbn": "54656514168",
+  "titre": "TypeScript React",
+  "annedition": "2019",
+  "prix": "60",
+  "qtestock": "10",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636031/images/tyupescriptreact_iapfux.png",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482e"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 14:25:24",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44814"
+  },
+  "isbn": "684984684",
+  "titre": "React",
+  "annedition": "2018",
+  "prix": "40",
+  "qtestock": "15",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704635964/images/9782212677560_internet_w290_cw3ggs.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482e"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 14:26:29",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44815"
+  },
+  "isbn": "5646486",
+  "titre": "L'intelligence artificelle au service de l'architecture",
+  "annedition": "2020",
+  "prix": "77",
+  "qtestock": "5",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636174/images/9782281144857_internet_w290_y4af39.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482f"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 14:27:29",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44816"
+  },
+  "isbn": "123987",
+  "titre": "Stratégie Big Data",
+  "annedition": "2019",
+  "prix": "80",
+  "qtestock": "10",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704635944/images/9782100778980_internet_w290_rdz59t.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd44830"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 14:28:27",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44817"
+  },
+  "isbn": "78412547",
+  "titre": "Progressive Web App",
+  "annedition": "2019",
+  "prix": "20",
+  "qtestock": "663f8cff3017d49f8bd44830",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636317/images/webapp_h4dtrb.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482e"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 14:29:27",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44818"
+  },
+  "isbn": "654698494",
+  "titre": "Agilité",
+  "annedition": "2020",
+  "prix": "41",
+  "qtestock": "10",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636120/images/9782810431694_internet_w290_aelogq.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd44830"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 14:30:48",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44819"
+  },
+  "isbn": "5498484",
+  "titre": "Programmation Python par la pratique",
+  "annedition": "2020",
+  "prix": "30",
+  "qtestock": "10",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704635950/images/9782100815142_internet_w290_jl0yhy.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd44830"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-31 15:31:49",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd4481a"
+  },
+  "isbn": "42368756",
+  "titre": "Python et Datascience",
+  "annedition": "2021",
+  "prix": "85",
+  "qtestock": "5",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704635947/images/9782100812240_internet_w290_xpqe9p.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd44831"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 14:33:15",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd4481b"
+  },
+  "isbn": "42368756",
+  "titre": "C++",
+  "annedition": "2021",
+  "prix": "20",
+  "qtestock": "5",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636452/images/9782409030208_internet_w290_vhqeq7.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482e"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 14:34:09",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd4481c"
+  },
+  "isbn": "42368756",
+  "titre": "Symfony 4",
+  "annedition": "2021",
+  "prix": "50",
+  "qtestock": "10",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636666/images/9782409031588_internet_w290_k50i7k.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482e"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 14:35:05",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd4481d"
+  },
+  "isbn": "2458741235411",
+  "titre": "Clean C++",
+  "annedition": "2021",
+  "prix": "50",
+  "qtestock": "10",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704635939/images/9781484259481_internet_w290_whd1wv.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd44830"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 14:36:16",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd4481e"
+  },
+  "isbn": "14458741235411",
+  "titre": "Mathématique pour l'informatique",
+  "annedition": "2021",
+  "prix": "50",
+  "qtestock": "5",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636828/images/9782100828708_internet_w290_mmha4p.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482e"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 14:37:14",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd4481f"
+  },
+  "isbn": "411868756",
+  "titre": "Docker",
+  "annedition": "2020",
+  "prix": "58",
+  "qtestock": "5",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704635622/images/9782409028588_internet_w290_duzkcn.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44834"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482e"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-03 14:39:01",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44820"
+  },
+  "isbn": "543214894",
+  "titre": "Angular Nodejs",
+  "annedition": "2023",
+  "prix": "69",
+  "qtestock": "5",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636586/images/9782409027864_internet_w290_xhwwrz.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482e"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": null,
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44821"
+  },
+  "isbn": "54231294",
+  "titre": "Kotlin",
+  "annedition": "2022",
+  "prix": "99",
+  "qtestock": "10",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636613/images/9782409029158_internet_w290_l0ihcd.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482e"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-09-25 12:48:34",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44822"
+  },
+  "isbn": "42222368756",
+  "titre": "PHP8",
+  "annedition": "2022",
+  "prix": "64",
+  "qtestock": "6",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636624/images/9782409030635_internet_w290_rct7hr.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482f"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 14:42:13",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44823"
+  },
+  "isbn": "5345465445",
+  "titre": "SQL Server",
+  "annedition": "2017",
+  "prix": "58",
+  "qtestock": "5",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636991/images/9782409031137_internet_w290_l8rl9u.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44834"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482f"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 16:22:41",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44824"
+  },
+  "isbn": "5464sf",
+  "titre": "Django",
+  "annedition": "2023",
+  "prix": "55",
+  "qtestock": "5",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636991/images/9782409031137_internet_w290_l8rl9u.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd44831"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 16:23:51",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44825"
+  },
+  "isbn": "57844894",
+  "titre": "HTML XML CSS",
+  "annedition": "2019",
+  "prix": "68",
+  "qtestock": "10",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704637115/images/9782412066874_internet_w290_pqomea.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd44831"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 16:25:01",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44826"
+  },
+  "isbn": "3165465445",
+  "titre": "Oracle 19C",
+  "annedition": "2022",
+  "prix": "128",
+  "qtestock": "6",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636600/images/9782409028946_internet_w290_uw8vww.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd44831"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 16:26:02",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44827"
+  },
+  "isbn": "775646486",
+  "titre": "Anabac",
+  "annedition": "2022",
+  "prix": "45",
+  "qtestock": "10",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636570/images/9782401064218_1_75_kxu3yv.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd44831"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 16:26:54",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44828"
+  },
+  "isbn": "4742368756",
+  "titre": "Conception d'algorithmes",
+  "annedition": "2020",
+  "prix": "78",
+  "qtestock": "5",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636110/images/algorithme_ormrjw.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482d"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 16:28:04",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd44829"
+  },
+  "isbn": "24587741235411",
+  "titre": "Scrum",
+  "annedition": "2021",
+  "prix": "72",
+  "qtestock": "10",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636656/images/9782409031311_internet_w290_c5dqfj.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482e"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 16:28:55",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd4482a"
+  },
+  "isbn": "785454231294",
+  "titre": "Java et IONIC",
+  "annedition": "2021",
+  "prix": "50",
+  "qtestock": "5",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704637257/images/javaionic_jmrrdj.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482e"},
+  "created_at": "2023-10-07 16:29:48",
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8c723017d49f8bd4482b"
+  },
+  "isbn": "982895874587",
+  "titre": "Apprendre et développer avec JavaScript",
+  "annedition": "2020",
+  "prix": "47",
+  "qtestock": "12",
+  "couverture": "https://res.cloudinary.com/iset-sfax/image/upload/v1704636096/images/javascript_gvyxxg.jpg",
+  "specialite":  {
+    "$oid": "663f8d3f3017d49f8bd44833"},
+  "maised":  {
+    "$oid": "663f8cff3017d49f8bd4482e"},
+  "auteurs": [
+    {
+      "$oid": "663fa36614a70e8e553c5b7e"
+    },
+    {
+      "$oid": "663fa36614a70e8e553c5b7f"
+    }
+  ],
+  "created_at": "2023-10-07 16:30:34",
+  "updated_at": null
+}]

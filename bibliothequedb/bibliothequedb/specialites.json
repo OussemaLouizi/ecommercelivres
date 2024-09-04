@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "663f8d3f3017d49f8bd44833"
+  },
+  "nomspecialite": "Informatique",
+  "created_at": null,
+  "updated_at": null
+},{
+  "_id": {
+    "$oid": "663f8d3f3017d49f8bd44834"
+  },
+  "nomspecialite": "Réseaux",
+  "created_at": null,
+  "updated_at": null
+}]
